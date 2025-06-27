@@ -58,7 +58,7 @@ An open-source system cleaner and resource manager built as a free alternative t
 - OS: Windows 10 / 11
 - Python 3.7+ (for source version)
 - Admin permissions recommended
-
+- https://t.me/Liotools
 ---
 
 ## ⚙️ Installation
